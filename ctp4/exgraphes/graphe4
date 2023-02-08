@@ -1,0 +1,9 @@
+Graphe non-oriente  value
+%Graphe non-oriente value  
+Sommets:
+q1 q2 q3  q4
+Transitions:
+q1 -- 34.2  -- q2
+%bip
+q1 -- 45 -- q3
+q2 -- -3 -- q4

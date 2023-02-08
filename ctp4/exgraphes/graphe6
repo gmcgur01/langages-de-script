@@ -1,0 +1,8 @@
+Graphe oriente  
+%Graphe oriente  
+q1 q2 q3  q4
+Transitions:
+q1 --> q2
+%bip
+q1 --> q3
+q2 --> q4

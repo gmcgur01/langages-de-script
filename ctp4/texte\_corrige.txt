@@ -1,0 +1,4 @@
+ceci est un texte
+**edité** par un italien qui parle 
+**plutot** mal le français, **desolé** !
+attention aux erreurs à coté de la **ponctuatio**.
